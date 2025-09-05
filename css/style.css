@@ -35,3 +35,10 @@ p {
     color: #636e72;
     margin-bottom: 0;
 }
+
+img {
+    margin-top: 12px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
